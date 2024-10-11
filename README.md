@@ -2,6 +2,10 @@ N-Queens Visualizer
 
 This project is a visual representation of the N-Queens problem, allowing users to explore the possible arrangements of queens on an N x N chessboard. The program supports boards up to 8x8 and provides visual feedback as it places each queen.
 
+## Demo
+
+Check out the live version [here](https://vipulbeniwal01.github.io/N-Queen-Visualiser/)
+
 Features
 
 	•	Interactive UI for adjusting board size using a slider and number input.
